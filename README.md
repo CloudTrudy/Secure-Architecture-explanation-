@@ -44,4 +44,5 @@ are grouped into four areas:
 
 ### Threat Detection
 - Amazon GuardDuty — Intelligent threat detection
+
 ![Architecture Diagram](./diagram.png)
